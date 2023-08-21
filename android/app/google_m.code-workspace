@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../google_map"
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../../../../../xampp/htdocs/phpapi"
+		}
+	],
+	"settings": {}
+}
